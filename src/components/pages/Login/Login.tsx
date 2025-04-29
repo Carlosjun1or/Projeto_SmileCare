@@ -1,4 +1,4 @@
-// pages/Login.tsx
+// pages/Login/Login.tsx
 
 import { useNavigate } from "react-router-dom";
 import "./Login.css";
@@ -8,7 +8,7 @@ export function Login() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    navigate("/home");
+    navigate("/NotFound");
   };
 
   return (
@@ -33,7 +33,7 @@ export function Login() {
             <input type="senha" id="senha" placeholder="Digite sua senha" />
           </div>
           <br />
-          <button type="submit">Entrar</button>
+          <button className="button" type="submit">Entrar</button>
         </form>
       </div>
     </section>

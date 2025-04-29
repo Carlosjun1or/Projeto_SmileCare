@@ -1,4 +1,4 @@
-// pages/Home.tsx
+// pages/Home/Home.tsx
 
 import "./Home.css";
 export function Home() {
@@ -8,7 +8,7 @@ export function Home() {
       <br />
       <p>Bem-vindo ao nosso site!</p>
       <br />
-      <img src="/sorisso.jpeg" alt="img" />
+      <img src='https://www.valordeplanosdesaude.com.br/wp-content/uploads/2019/01/empresa_odonto.jpg' alt="img" />
     </section>
   );
 }

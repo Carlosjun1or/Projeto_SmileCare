@@ -1,26 +1,43 @@
-/* pages/Login.css */
+/* pages/Login/Login.css */
 
 .login-container {
   justify-content: center;
   display: flex;
   margin-top: 16px;
+
 }
 
 .container-title {
-  font-size: 20px;
+  font-size: 35px;
   font-weight: 600;
-  margin-bottom: 8px;
+  margin-bottom: 25px;
 }
 
 .login {
+  font-size: 18px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 200px;
-  height: 250px;
+  width: 300px;
+  height: 300px;
   margin: 50px;
   padding: 50px;
   border-radius: 25px;
-  background-color: #007bff;
+  background-color: var(--color-secondary);
 }
+
+.button {
+  background-color: #e7e7e7;
+  padding: 10px 24px;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 4px 
+  transition-duration 0.4s;
+}
+
+.button:hover {
+  background-color: var(--color-primary); 
+  color: white;
+}
+
