@@ -1,4 +1,4 @@
-// components/Header.tsx
+// components/Header/Header.tsx
 
 import "./Header.css";
 

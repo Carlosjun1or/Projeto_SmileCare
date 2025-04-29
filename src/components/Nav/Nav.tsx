@@ -1,4 +1,4 @@
-// components/Nav.tsx
+// components/Nav/Nav.tsx
 
 import { Link } from "react-router-dom";
 import "./Nav.css";
