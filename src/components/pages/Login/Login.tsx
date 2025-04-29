@@ -22,15 +22,15 @@ export function Login() {
               Email
             </label>
             <br />
-            <input type="email" id="email" placeholder="Digite seu email" />
+            <input className="input1" type="email" id="email" placeholder="Digite seu email" />
           </div>
           <br />
           <div>
-            <label className="label2" htmlFor="senha">
+            <label className="label1" htmlFor="senha">
               Senha
             </label>
             <br />
-            <input type="senha" id="senha" placeholder="Digite sua senha" />
+            <input className="input1" type="senha" id="senha" placeholder="Digite sua senha" />
           </div>
           <br />
           <button className="button" type="submit">Entrar</button>
