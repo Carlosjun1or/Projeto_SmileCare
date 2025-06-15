@@ -33,8 +33,7 @@ const Navbar: React.FC = () => {
       <div className="nav-container">
         <nav className="nav-links">
           <Link to="/">Home</Link>
-          <Link to="/profissionais">Profissionais</Link>
-          <div className="dropdown">
+           <div className="dropdown">
             <a href="#">Procedimentos</a>
             <div className="dropdown-content">
               <div className="sub-dropdown">
@@ -60,6 +59,7 @@ const Navbar: React.FC = () => {
               </div>
             </div>
           </div>
+          <Link to="/profissionais">Profissionais</Link>
         </nav>
         <div className="user-section">
           {!estaLogado ? (
