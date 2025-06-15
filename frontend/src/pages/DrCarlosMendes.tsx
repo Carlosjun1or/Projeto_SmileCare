@@ -18,7 +18,8 @@ export default function DrCarlosMendes() {
         <p><span className="check-icon">✔</span>Capacitação em micro cirurgia periodontal USP</p>
         <p><span className="check-icon">✔</span>Atualização em cirurgia oral menor USP</p>
         <p><span className="check-icon">✔</span>Atualização cirurgia de implante USP</p>
-        <p><span>CRO:</span> 107.896</p>
+         <p><span>E-mail:</span> carlos.cirurgiao@clinica.com</p>
+        <p><span>CRO:</span> 10003-SP</p>
       </div>
     </section>
   );

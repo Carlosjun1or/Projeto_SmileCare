@@ -18,8 +18,8 @@ export default function DrJoaoSilva() {
         <p><span className="check-icon">✔</span>Especialista em Ortodontia USP</p>
         <p><span className="check-icon">✔</span>INVISALIGN TOP DOCTOR</p>
         <p><span className="check-icon">✔</span>ARCH PLUS Alinhadores invisíveis</p>
-        <p><span>E-mail:</span> dr.joaosilva@SmileCareodontologia.com.br</p>
-        <p><span>CRO:</span> 109.559</p>
+        <p><span>E-mail:</span> joao.ortodontista@clinica.com</p>
+        <p><span>CRO:</span> 10001-SP</p>
       </div>
     </section>
   );

@@ -15,8 +15,8 @@ export default function DrMarioSantos(){
             <p><span className="check-icon">✔</span>Mestre em Periodontia USP</p>
             <p><span className="check-icon">✔</span>Atualização em Cirurgia Periodontal e Peri-implantar USP</p>
             <p><span className="check-icon">✔</span>Membro da Sociedade Brasileira de Periodontia (Sobrape)</p>
-            <p><span>E-mail:</span> dr.mariosantos@SmileCareodontologia.com.br</p>
-            <p><span>CRO:</span> 105.074</p>       
+            <p><span>E-mail:</span> mario.periodontista@clinica.com</p>
+            <p><span>CRO:</span> 10002-SP </p>       
         </div>
         </section>
     )

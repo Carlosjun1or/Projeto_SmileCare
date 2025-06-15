@@ -12,7 +12,9 @@ export default function DraPaulaCosta() {
         <p><span className="check-icon">✔</span>Graduação USP</p>
         <p><span className="check-icon">✔</span>Especialista em Odontopediatria USP</p>
         <p><span className="check-icon">✔</span>Mestrado em Odontopediatria USP</p>
-        <p><span>CRO:</span> 143.522</p>
+        <p><span>E-mail:</span> - Indisponível </p>
+        <p><span>CRO:</span> - Indisponível </p>
+
       </div>
     </section>
   );

@@ -10,9 +10,10 @@ export default function DraLuanaDeConto(){
             <div className="bio-text-luana">
                 <h1>Dra. Luana De Conto</h1>
                 <p><span className="check-icon">✔</span>Graduação Universidade de São Caetano do Sul</p>
-                <p><span>Sou cirurgiã-dentista, atendo clínico geral.</span></p>
-                <p><span>Realizo a parte de restaurações, profilaxias, clareamento, extrações e diagnóstico</span></p>
-                <p><span>CRO:</span> 171.021</p>
+                <p><span className="check-icon">✔</span>Sou cirurgiã-dentista, atendo clínico geral</p>
+                <p><span className="check-icon">✔</span>Realizo a parte de restaurações, profilaxias, clareamento, extrações e diagnóstico</p>
+                <p><span>E-mail:</span> luana.clinico@clinica.com</p>
+                <p><span>CRO:</span> 10005-SP</p>
             </div>
         </section>
     )
