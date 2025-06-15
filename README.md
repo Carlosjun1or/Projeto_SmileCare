@@ -1,7 +1,7 @@
 # Projeto Smile Care
-Projeto A3 - USJT - 1/2025
-UCS de: Usabilidade, Desenvolvimento web, Mobile e Jogos & Sistemas Distribuídos e Mobile.
-Professores: Carmino, Erica, Adalto & Marcelo.
+Projeto A3 - USJT - 1/2025 <br>
+UCS de: Usabilidade, Desenvolvimento web, Mobile e Jogos & Sistemas Distribuídos e Mobile. <br>
+Professores: Carmino, Erica, Adalto & Marcelo. <br>
 (Como Rodar o Sistema: entre nas pastas do frontend e do backend pelo cmd separadamente, use o npm install para instalar o node_modules em cada uma e em seguida para rode o sistema com npm start em cada pasta)
 
 # Resumo
