@@ -58,7 +58,8 @@
       "nome": "Aparelhos ortodônticos",
       "descricao": "Instalação e manutenção de aparelhos fixos e móveis",
       "idProfissionais": [
-        "PROFISSIONAL-HOLfb"
+        "PROFISSIONAL-HOLfb",
+        "PROFISSIONAL-F2eo4"
       ],
       "profissionais": []
     },
@@ -67,7 +68,8 @@
       "nome": "Invisalign",
       "descricao": "Alinhadores transparentes para correção dentária",
       "idProfissionais": [
-        "PROFISSIONAL-HOLfb"
+        "PROFISSIONAL-HOLfb",
+        "PROFISSIONAL-2gqZW"
       ],
       "profissionais": []
     },
@@ -76,7 +78,8 @@
       "nome": "Implantes",
       "descricao": "Reposição de dentes com pinos de titânio",
       "idProfissionais": [
-        "PROFISSIONAL-HQ2JF"
+        "PROFISSIONAL-HQ2JF",
+        "PROFISSIONAL-F2eo4"
       ],
       "profissionais": []
     },
@@ -85,7 +88,8 @@
       "nome": "Próteses",
       "descricao": "Confecção de próteses parciais e totais",
       "idProfissionais": [
-        "PROFISSIONAL-HQ2JF"
+        "PROFISSIONAL-HQ2JF",
+        "PROFISSIONAL-Dku7S"
       ],
       "profissionais": []
     },
@@ -96,6 +100,16 @@
       "idProfissionais": [
         "PROFISSIONAL-HQ2JF",
         "PROFISSIONAL-2gqZW",
+        "PROFISSIONAL-Dku7S"
+      ],
+      "profissionais": []
+    },
+    "PROCEDIMENTO-ewHd9": {
+      "id": "PROCEDIMENTO-ewHd9",
+      "nome": "Check-up clínico geral",
+      "descricao": "Avaliação clínica completa e preventiva",
+      "idProfissionais": [
+        "PROFISSIONAL-F2eo4",
         "PROFISSIONAL-Dku7S"
       ],
       "profissionais": []

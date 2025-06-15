@@ -300,6 +300,11 @@ input[aria-invalid="true"]:focus {
   border-color: #00b4f0;
 }
 
+.professional-mode .remember-me-checkbox:checked {
+  background-color: #5e2129;
+  border-color: #5e2129;
+}
+
 .remember-me-checkbox:checked::after {
   content: '✓';
   position: absolute;
@@ -312,6 +317,10 @@ input[aria-invalid="true"]:focus {
 
 .remember-me-checkbox:hover {
   border-color: #00b4f0;
+}
+
+.professional-mode .remember-me-checkbox:hover {
+  border-color: #5e2129;
 }
 
 .remember-me-text {
