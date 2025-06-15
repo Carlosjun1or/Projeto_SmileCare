@@ -12,11 +12,11 @@ Entre nas pastas do frontend e do backend pelo cmd separadamente, use o npm inst
 
 ### Acesse o desenvolvimento do Projeto 
 
-pelo nosso[Drive](https://drive.google.com/drive/folders/1ZB0C2r8-kvXeorpLChr0kcThFnjDxgQf?usp=sharing)<br>
+Pelo nosso [Drive](https://drive.google.com/drive/folders/1ZB0C2r8-kvXeorpLChr0kcThFnjDxgQf?usp=sharing)<br>
 
 ### Vídeo Promocional do Projeto 
 
-[Pitch - SmileCare](https://youtu.be/2xKk21Zwi04)
+Pitch do [SmileCare](https://youtu.be/2xKk21Zwi04)
 
 ## Resumo
 
@@ -29,10 +29,10 @@ profissionais.
 
 ## Integrantes do Grupo 
 
-- Luiz Vinicius Moreira Oliveira, 
-- Carlos Roberto Dantas Junior, 
-- Davi Mendes de Oliveira,
-- Gabriel de Conto Oliveira,
-- Ana Vitória Sales de Lima,
-- Jorge Arturo Mamani Cuba.
+- Luiz Vinicius Moreira Oliveira
+- Carlos Roberto Dantas Junior
+- Davi Mendes de Oliveira
+- Gabriel de Conto Oliveira
+- Ana Vitória Sales de Lima
+- Jorge Arturo Mamani Cuba
 
