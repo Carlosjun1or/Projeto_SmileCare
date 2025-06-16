@@ -56,7 +56,7 @@ profissionais.
 - Editar seus dados pelo Perfil
 - Visualizar sua agenda de consultas (agendamentos)
 - Visualizar dados de data, horário,  paciente e do procedimento agendado
-- Editar o status da consulta de (ex: de pendente para confirmada, concluída ou cancelada)
+- Editar o status da consulta (ex: de pendente para confirmada, concluída ou cancelada)
 - Deletar consulta
 
 
