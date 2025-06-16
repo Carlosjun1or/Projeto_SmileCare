@@ -8,7 +8,7 @@ Professores: Carmino, Erica, Adalto & Marcelo. <br>
 
 ### Como Rodar o Sistema?
 
-Entre nas pastas do frontend e do backend pelo cmd separadamente, use o npm install para instalar o node_modules em cada uma e em seguida rode o sistema com npm start em cada pasta. <br>
+Entre nas pastas do frontend e do backend pelo terminal (cmd) separadamente, use o "npm install" para instalar o node_modules em cada uma e em seguida rode o sistema com "npm start" em cada pasta. <br>
 
 ### Acesse o desenvolvimento do Projeto 
 
@@ -36,41 +36,43 @@ profissionais.
  
 #### Conta com:
 
-- Sistema de agendamento online
-- Perfis dos profissionais
+- Lista dos profissionais
 - Catálogo de procedimentos
-- Histórico de consultas
-- Interface responsiva
+- Sistema de Login para conta Paciente ou Profissional
+- Sistema de agendamento online
 
-#### Para o Usuário:
+#### Para o Paciente:
 
-- Design moderno
+- Cadastro e Login 
+- Editar seus dados pelo Perfil
 - Navegação intuitiva
-- Visualização de horários
-- Responsividade
+- Histórico de Última e Próxima Consulta
+- Marcar uma consulta (agendamento)
+- Seleção de data, procedimento, profissional e horário
 
-#### No Agendamento:
+#### Para o Profissional:
 
-- Calendário interativo
-- Seleção de procedimetos e profissionais
-- Escolha de horários
-- Confirmação de consulta
-- Histórico de agendamentos
+- Login Profissional
+- Editar seus dados pelo Perfil
+- Visualizar sua agenda de consultas (agendamentos)
+- Visualizar dados de data, horário,  paciente e do procedimento agendado
+- Editar o status da consulta de (ex: de pendente para confirmada, concluída ou cancelada)
+- Deletar consulta
+
 
 ### Estrutura Técnica
-
-#### Backend: 
-
-Desenvolvido com Node.js.
-
-#### Banco de Dados:
-
-Informações armazenadas em um arquivo JSON, garantindo simplicidade e portabilidade.
 
 #### Frontend: 
 
 Criado utilizando React, TypeScript e CSS para uma experiência moderna e interativa.
 
+#### Backend: 
+
+Desenvolvido com Node.js + Express, JWT - autenticação, SimpleCrypto - encriptografia de senha.
+
+#### Banco de Dados:
+
+Informações armazenadas em um arquivo JSON, garantindo simplicidade e portabilidade.
 
 ## Integrantes do Grupo 
 
