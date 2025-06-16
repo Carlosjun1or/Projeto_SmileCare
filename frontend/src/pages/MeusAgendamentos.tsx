@@ -186,7 +186,7 @@ const MeusAgendamentos: React.FC = () => {
   const horariosOcupados = todosAgendamentos
     .filter(ag =>
       toISODate(ag.data) === toISODate(novoAgendamento.data) &&
-      ag.idProcedimento === novoAgendamento.idProcedimento &&
+      ag.idProfissional === novoAgendamento.idProfissional &&
       ag.status !== 'cancelada'
     )
     .map(ag => ag.horario);
