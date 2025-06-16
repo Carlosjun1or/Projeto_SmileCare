@@ -74,11 +74,11 @@ Desenvolvido com Node.js + Express, JWT - autenticação, SimpleCrypto - encript
 Informações armazenadas em um arquivo JSON, garantindo simplicidade e portabilidade.
 
 ## Integrantes do Grupo 
-
-- ```Luiz Vinicius Moreira Oliveira```
-- ```Carlos Roberto Dantas Junior```
-- ```Davi Mendes de Oliveira```
-- ```Gabriel de Conto Oliveira```
-- ```Ana Vitória Sales de Lima```
-- ```Jorge Arturo Mamani Cuba```
+```Nome:``` ```RA:```
+- ```Luiz Vinicius Moreira Oliveira``` ```824124081```
+- ```Carlos Roberto Dantas Junior``` ```824139589```
+- ```Davi Mendes de Oliveira``` ```82412708```
+- ```Gabriel de Conto Oliveira``` ```824215394```
+- ```Ana Vitória Sales de Lima``` ```824118006```
+- ```Jorge Arturo Mamani Cuba``` ```824158550```
 
